@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+
+body {
+    min-height: 0px;
+}
+
+.jumbotron{
+    padding-top: 4rem;
+    background-color: #3543aa; 
+    text-align: center;
+}
+ 
+.display-4,
+.lead{
+    color: #fff;
+    font-family: 'Noto Serif', serif;
+}
+
+#project{
+    background-color: #3543aa; 
+}
+
+footer a{
+    text-decoration: none;
+}
+
+footer{
+    font-size: 23px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.kirim{
+    background-color: rgba(17, 198, 211, 0.952);
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
